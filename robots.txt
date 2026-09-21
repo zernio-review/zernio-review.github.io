@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zernio-review.github.io/sitemap.xml
