@@ -19,3 +19,5 @@ Zernio is aimed at developers and agent builders shipping a product that publish
 ---
 
 *This is an independent review page with no affiliation to Zernio; all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
